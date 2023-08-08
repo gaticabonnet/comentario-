@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
+body {
+    background: black;
+    text-align: center;
+    height: 90vh;
+    font-family: 'Bungee Spice', cursive;
+}
+h1:hover{
+    text-shadow: 5px 2px 10px gainsboro;
+}
+h2:hover{
+    text-shadow: 5px 2px 10px gainsboro;
+}
+button:{
+   background: ;
+}
+small:hover{
+    text-shadow: 5px 2px 10px gainsboro;
+}
